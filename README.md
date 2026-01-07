@@ -1,7 +1,7 @@
-# CS50x 2025 - My Journey in Computer Science
+# 👨‍🎓 My CS50x Journey in Computer Science 2025
 ![cs50](CS50x-2025.png)
 
-This repository contains my solutions and projects for Harvard's CS50x Introduction to Computer Science course (2025 edition).
+## CS50's Introduction to Computer Science.
 
 ## About CS50
 
@@ -11,7 +11,7 @@ CS50x is Harvard University's introduction to the intellectual enterprises of co
 
 | Week | Topic | Projects | Language |
 |------|-------|----------|----------|
-| 0 | Scratch | | Scratch |
+| 0 | Scratch | [Simple Dialogue Cat With a dog](https://github.com/me50/SegMind25/tree/54fb089fbaf82444fbdfae151a75f15685bfe9d8) | Scratch |
 | 1 | C Programming | | C |
 | 2 | Arrays | | C |
 | 3 | Algorithms | | C |
