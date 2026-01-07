@@ -11,17 +11,17 @@ CS50x is Harvard University's introduction to the intellectual enterprises of co
 
 | Week | Topic | Projects | Language |
 |------|-------|----------|----------|
-| 0 | Scratch | Scratch |
-| 1 | C Programming | C |
-| 2 | Arrays | C |
-| 3 | Algorithms | C |
-| 4 | Memory | C |
-| 5 | Data Structures | C |
-| 6 | Python | Python |
-| 7 | SQL | SQL, Python |
-| 8 | Web Development | HTML, CSS, JavaScript |
-| 9 | Flask | Python, Flask |
-| 10 | Final Project | Various |
+| 0 | Scratch | | Scratch |
+| 1 | C Programming | | C |
+| 2 | Arrays | | C |
+| 3 | Algorithms | | C |
+| 4 | Memory | | C |
+| 5 | Data Structures | | C |
+| 6 | Python | | Python |
+| 7 | SQL | | SQL, Python |
+| 8 | Web Development | | HTML, CSS, JavaScript |
+| 9 | Flask | | Python, Flask |
+| 10 | Final Project | | Various |
 
 
 
