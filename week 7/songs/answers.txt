@@ -1,0 +1,5 @@
+# Which artist has the most top 100 songs?
+Drake
+
+# How might Spotify use valence data in Wrapped?
+To tell users if they listened to mostly happy (high valence) or sad (low valence) music.

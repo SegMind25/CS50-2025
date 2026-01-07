@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="static/styles.css">
+        <title>Birthdays</title>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Birthdays</h1>
+        </div>
+
+        <div class="container">
+            <!-- Form to add birthdays -->
+            <form action="/" method="post">
+                <input type="text" name="name" placeholder="Name" required>
+                <input type="number" name="month" min="1" max="12" placeholder="Month (1-12)" required>
+                <input type="number" name="day" min="1" max="31" placeholder="Day (1-31)" required>
+                <button type="submit">Add Birthday</button>
+            </form>
+
+            <!-- Table of birthdays -->
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Birthday</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for birthday in birthdays %}
+                        <tr>
+                            <td>{{ birthday.name }}</td>
+                            <td>{{ birthday.month }}/{{ birthday.day }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

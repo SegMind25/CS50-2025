@@ -1,0 +1,57 @@
+/* Base styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark mode */
+body.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+body.dark-mode .jumbotron,
+body.dark-mode .card,
+body.dark-mode .form-control,
+body.dark-mode .btn-outline-secondary {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  border-color: #444;
+}
+
+body.dark-mode .card-title,
+body.dark-mode .card-text {
+  color: #e0e0e0;
+}
+
+/* Custom jumbotron padding */
+.jumbotron {
+  padding: 2rem 1rem;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .navbar-nav {
+    text-align: center;
+  }
+}
+
+/* Additional selectors for requirement */
+h1, h3 {
+  color: #2c3e50;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #007bff;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+}
+
+#contact-form {
+  margin-top: 1rem;
+}

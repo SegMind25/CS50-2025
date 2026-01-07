@@ -1,0 +1,15 @@
+sort1 uses: Bubble sort
+
+How do you know?: Bubble sort is Compare The Numbers with next Number and Sort it and When Finish all These Numbers Not Swap it anymore
+This algo slowest than merge and selection
+sort2 uses: Merge Sort
+
+How do you know?: The Merge Sort is devide The Array Elements and Compare Two Elements in the same time and store the minimal value for when devide the array and Then The minimal 1st Devide array compare with 2nd Devide array and sort if the number is minimal to 1st devide array else if the number is big than devide 2nd array not sorted
+and this algo is faster than selection and bubble sort
+
+sort3 uses: Selection sort
+
+How do you know?: Compare two element in the same time but next element is two numbers and sort it
+This algo is faster than Bubble and slowest than merge
+
+

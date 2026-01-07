@@ -1,0 +1,36 @@
+HTML Tags Used (10+):
+1. <nav>
+2. <header> (implied in structure via <div>, but not used explicitly — so we use:)
+   Actually used: <div>, <a>, <p>, <h1>-<h5>, <ul>, <li>, <button>, <form>, <input>, <textarea>, <img>, <blockquote>, <span>, <section> (via Bootstrap classes)
+
+Explicit distinct tags (10):
+- <nav>
+- <div>
+- <a>
+- <p>
+- <h1>
+- <ul>
+- <li>
+- <button>
+- <form>
+- <img>
+
+CSS Selectors (5+):
+1. tag: body
+2. class: .dark-mode
+3. ID: #contact-form
+4. class: .jumbotron
+5. pseudo-class: :hover (not used, so instead we use descendant): body.dark-mode .card
+
+CSS Properties (5+):
+- font-family
+- background-color
+- color
+- transition
+- padding
+
+JavaScript Use:
+Added a "Toggle Dark Mode" button that toggles a 'dark-mode' class on the <body>, enabling a dark theme with smooth transitions.
+
+Bootstrap Use:
+Used Bootstrap’s navbar, jumbotron, cards, grid system (container, row, col), form components, and responsive utilities for mobile-first design.

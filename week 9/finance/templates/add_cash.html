@@ -1,0 +1,7 @@
+{% extends "layout.html" %}
+{% block main %}
+<form method="post">
+    <input type="number" name="amount" step="0.01" min="0.01" placeholder="Amount to add" class="form-control w-auto mx-auto mb-3">
+    <button type="submit" class="btn btn-success">Add Cash</button>
+</form>
+{% endblock %}
