@@ -1,5 +1,5 @@
 # 👨‍🎓 My CS50x
-![cs50](https://raw.githubusercontent.com/SegMind25/CS50x-2024/CS50X.pdf)
+![cs50](https://raw.githubusercontent.com/SegMind25/CS50-2025/CS50x.pdf)
 
 
 ## CS50's Introduction to Computer Science
