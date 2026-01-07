@@ -1,5 +1,5 @@
 # CS50x 2025 - My Journey in Computer Science
-![cs50](CS50x.pdf)
+![cs50](CS50x-2025.png)
 
 This repository contains my solutions and projects for Harvard's CS50x Introduction to Computer Science course (2025 edition).
 
