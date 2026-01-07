@@ -1,76 +1,49 @@
-# 👨‍🎓 My CS50x
-![cs50](https://raw.githubusercontent.com/SegMind25/CS50-2025/CS50x-2025.png)
+# CS50x 2025 - My Journey in Computer Science
+![cs50](CS50x-2025.png)
 
+This repository contains my solutions and projects for Harvard's CS50x Introduction to Computer Science course (2025 edition).
 
-## CS50's Introduction to Computer Science
+## About CS50
 
+CS50x is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently.
 
-| Submissions                                                                        | Lecture(s)                    |
-|------------------------------------------------------------------------------------|-------------------------------|
-| [Simple Starfish Game](https://scratch.mit.edu/projects/1077515650)                | Week 0: Scratch               |
-| [Cash, Mario (more), Me (hello)](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%201%20C/Problem%20set%201) | Week 1: C                     |
-| [Caesar, Readability, Scrabble](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%202%20Arrays/Problem%20set%202)  | Week 2: Arrays                |
-| [Sort, Plularity, Runoff](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%203%20Algorithms/Problem%20set%203)          | Week 3: Algorithms            |
-| [Volume, Filter (Less), Recover](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%204%20Memory/Problem%20set%204) | Week 4: Memory                |
-| [Inheritence, Speller](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%205%20Data%20Structures/Problem%20set%205)   | Week 5: Data Structures       |
-| [hello, Mario (more), Cash, Readability, Dna](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%206%20Python/Problem%20set%206)     | Week 6: Python                |
-| [Songs, movies, fiftyville](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%207%20SQL/Problem%20set%207)                             | Week 7: SQL                   |
-| [Homepage, Trivia](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%208%20HTML%2C%20CSS%2C%20JavaScript/Problem%20set%208)          | Week 8: HTML, CSS, JavaScript |
-| [Birthdays, Finance](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%209%20Flask/Problem%20set%209)              | Week 9: Flask                 |
-| [Final Project](https://github.com/haytham-hammioui/CS50x-2024/tree/main/Week%2010%20The%20End/Final%20Project)              | Week 10: The End                 |
+## Course Structure
 
-# 🏰 Harvard (CS50x) 2024:
-![cs50](https://facialix.com/wp-content/uploads/2023/05/curso-gratis-de-harvard-facialix.jpg)
+| Week | Topic | Projects | Language |
+|------|-------|----------|----------|
+| 0 | Scratch | [Simple Starfish Game](https://scratch.mit.edu/projects/1077515650) | Scratch |
+| 1 | C Programming | [Me (Hello)](week 0/me), [Mario (less)](Week 1/mario-less), [Cash](Week 1/cash) | C |
+| 2 | Arrays | [Caesar](Week 2/caesar), [Readability](Week 2/readability), [Scrabble](Week 2/scrabble) | C |
+| 3 | Algorithms | [Sort](Week 3/sort), [Plurality](Week 3/plurality), [Runoff](Week 3/runoff) | C |
+| 4 | Memory | [Volume](week 4/volume), [Filter (Less)](week 4/filter-less), [Recover](week 4/recover) | C |
+| 5 | Data Structures | [Inheritance](week 5/inheritance), [Speller](week 5/speller) | C |
+| 6 | Python | [Hello](week 6/hello), [Cash](week 6/cash), [Readability](week 6/sentimental-readability), [DNA](week 6/dna) | Python |
+| 7 | SQL | [Songs](week 7/songs), [Movies](week 7/movies), [Fiftyville](week 7/fiftyville) | SQL, Python |
+| 8 | Web Development | [Homepage](week 8/homepage), [Trivia](week 8/trivia) | HTML, CSS, JavaScript |
+| 9 | Flask | [Birthdays](week 9/birthdays), [Finance](week 9/finance) | Python, Flask |
+| 10 | Final Project | [Final Project](week 10/project) | Various |
 
-* CS50 is an introductory computer science course offered by Harvard University. It's designed for people of all backgrounds, with or without prior programming 
-* experience. Here's a breakdown of the key things to know about CS50:
+## How to Use This Repository
 
+Each week's projects are organized in their respective directories:
 
+- Clone this repository: `git clone <repository-url>`
+- Navigate to a specific week: `cd Week X`
+- Run or compile the programs as specified in the individual project README files
 
-Introduction
+## Technologies Used
 
-Covers the fundamentals of computer science and the art of programming.
-Offered in two formats:
-CS50x: The online version on edX, a self-paced course you can take on your own schedule.
-CS50: The on-campus version at Harvard, known as Harvard's largest course.
-Content
+- C programming language
+- Python
+- SQL
+- HTML, CSS, JavaScript
+- Flask web framework
 
-Teaches you how to think algorithmically and solve problems efficiently.
-Covers core concepts like abstraction, algorithms, data structures, and web development.
-You'll also learn about software engineering, security, and resource management.
-Learning
+## Author
 
-CS50x is a popular course with over 4 million learners worldwide.
-Both CS50 and CS50x offer a strong support system with teaching fellows, course assistants, and office hours.
-To earn a certificate, you'll need to complete problem sets (programming assignments) and a final project.
-Resources
+Haytham Hammioui
 
-Check out the official CS50 website for detailed information: [CS50 Harvard University]
-If you're interested in the online version, visit the CS50x page on edX: [HarvardX CS50's Introduction to Computer Science]
-You can also find CS50 lectures and other resources on the CS50 YouTube channel: [CS50 YouTube]
-# 👨‍🏫 David J. Malan
-![David J. Malan](https://cs.harvard.edu/malan/malan.jpg)
-David J. Malan is a computer scientist and professor best known for teaching the popular introductory computer science course, CS50, at Harvard University. Here's a summary of his accomplishments:
+## License
 
-Professor at Harvard University: Malan is a Gordon McKay Professor of the Practice of Computer Science at Harvard's John A. Paulson School of Engineering and Applied Sciences https://cs.harvard.edu/malan/. He is also a member of the Faculty of Education in the Graduate School of Education https://www.edx.org/bio/david-j-malan.
-CS50 Instructor: CS50, which stands for Computer Science 50, is a massive open online course (MOOC) offered through edX. It's the largest open-learning course at Harvard and Yale and one of the biggest MOOCs on edX, with over a million people having viewed lectures by 2017 https://en.wikipedia.org/wiki/David_J._Malan.
-Research Interests: Malan's research interests span various areas of computer science, including cybersecurity, digital forensics, botnets, computer science education, and online learning methodologies https://en.wikipedia.org/wiki/David_J._Malan.
-If you'd like to learn more about David J. Malan, you can visit his Harvard faculty webpage https://cs.harvard.edu/malan/ or his profile on edX https://www.edx.org/bio/david-j-malan.
-# 📚 How to join in CS50x
-* There are two main ways to join CS50, depending on whether you want a formal certificate or not:
-
-* Free access (no certificate):
-
-Head over to the CS50 Introduction to Computer Science course page on edX: CS50 edX
-You can start working through the lectures, readings, and problem sets at your own pace. This is a completely free option.
-* Verified certificate (optional):
-
-Enroll for the verified certificate track on the same edX page: CS50 edX There will be a fee associated with this option.
-This gives you access to graded assignments and a verified certificate upon completion.
-* Here are some additional things to keep in mind:
-
-Regardless of the chosen path, you'll need a free edX account.
-CS50 also recommends having a free GitHub account for submitting your problem sets.
-The course content is designed to be self-paced, so you can work through it on your own schedule.
-CS50 offers a vibrant online community for help and discussions.
+This project is part of the CS50x coursework and follows the course's guidelines for academic work.
 
