@@ -25,8 +25,7 @@ CS50x is Harvard University's introduction to the intellectual enterprises of co
 
 
 
-Haytham Hammioui
-
+MOHAMED ELBAKKALI ELISSAOUI
 ## License
 
 This project is part of the CS50x coursework and follows the course's guidelines for academic work.
