@@ -78,3 +78,7 @@ MOHAMED ELBAKKALI EL ISSAOUI
 
 This project is part of the CS50x coursework and follows the course's guidelines for academic work.
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SegMind25/CS50-2025&type=date&legend=top-left)](https://www.star-history.com/#SegMind25/CS50-2025&type=date&legend=top-left)
